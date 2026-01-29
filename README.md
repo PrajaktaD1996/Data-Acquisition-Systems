@@ -87,4 +87,4 @@ Multimeter → RS485 → Controller → Data Processing → Display/Storage
 ## Author  
 
 Prajaktaa Deokar  
-Embedded Systems | Industrial Automation | Orbit | Sapcon Instruments Pvt. Ltd. 
+Embedded Systems | Industrial Automation | Data Aquasition Jig | Sapcon Instruments Pvt. Ltd. 
